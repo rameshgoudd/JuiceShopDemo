@@ -57,7 +57,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1100.5",
-    "@angular-eslint/builder": "^0.8.0-beta.7",
+    "@angular-eslint/builder": "^1.2.0",
     "@angular/language-service": "^11.0.5",
     "@types/express-serve-static-core": "^4.17.9",
     "@types/file-saver": "^2.0.1",
